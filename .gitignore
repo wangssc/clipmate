@@ -1,0 +1,18 @@
+# 数据与构建产物，绝不提交
+data/
+dist/
+build/
+runtime/
+
+# 备份
+_backup_*/
+_backup_*
+
+# 临时
+tmp/
+*.pyc
+__pycache__/
+
+# 本地测试脚本
+tools/
+*task*.md
